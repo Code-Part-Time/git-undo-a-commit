@@ -5,3 +5,5 @@ B for Ball
 C for Cat
 
 D for Dog
+
+E for Elephant
